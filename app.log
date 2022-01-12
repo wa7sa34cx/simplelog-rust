@@ -1,2 +1,2 @@
-2022-01-12 15:55:17 [ERROR] error
-2022-01-12 15:55:17 [ERROR] sub error
+2022-01-12 19:23:08 [ERROR] simplelog_rust: error
+2022-01-12 19:23:08 [ERROR] simplelog_rust::submod: sub error
